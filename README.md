@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @WALIAX
+- 👀 Je suis intéressé par ...
+- 🌱 J'apprends actuellement
+- 💞️ Je cherche à collaborer sur...
+- 📫 Comment me joindre...
+
+<!---WALIAX/WALIAX est un référentiel ✨ spécial ✨ car son `RADME.md` (ce fichier) apparaît sur votre profi GitHub
+Vous pouves.
+--->
